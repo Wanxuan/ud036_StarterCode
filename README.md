@@ -4,9 +4,9 @@ Programming Foundations with Python
 
 We started off with a plan:
 
-Go to the website
-See all of the movies displayed
-Click on one to play it's trailer
+  1.Go to the website
+  2.See all of the movies displayed
+  3.Click on one to play it's trailer
 
 # HOW TO RUN THE PROGRAM!!!
 1. Ensure that you have Python 2.7 or later installed.
