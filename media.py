@@ -19,7 +19,6 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
-
     """when we pass in a title, and assign its value to self.title,
     we are saying "this movie's title is the title we passed in" see result
     in the file entertainment.py"""
@@ -32,4 +31,3 @@ class Movie():
 
     def show_trailer(self):
         wb.open(self.trailer_youtube_url)
-
